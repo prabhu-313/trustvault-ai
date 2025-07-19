@@ -33,4 +33,5 @@ This project was built collaboratively by 6 team member.
 - Individual responsibilities included Federated Learning simulation, Differential Privacy integration, Retrieval-Augmented Generation (RAG), Streamlit UI, and backend architecture.
 
 ## 📜 License
-MIT License
+This project is licensed under the [MIT License](./LICENSE).
+
