@@ -2,7 +2,7 @@
 > **A privacy-first AI assistant focusing on decentralized NLP tasks and secure data handling.**
 
 ## 📌 Overview
-TrustVault AI is a privacy-focused language model system developed as part of our final-year B.Tech project. It combines **Federated Learning**, **Differential Privacy**, and **Retrieval-Augmented Generation (RAG)** to create a secure AI assistant capable of running locally or in a decentralized environment.
+TrustVault AI is a privacy-focused language model system developed as part of our final-year B.Tech project. It combines **Federated Learning**, **Differential Privacy**, and **Retrieval-Augmented Generation (RAG)** to create a secure AI assistant capable of running locally or in a decentralized environment. 
 
 ## 🚀 Key Features
 - ✅ **Local Training & Inference** using lightweight Transformer models (Phi-2, T5-small, DistilBERT)
