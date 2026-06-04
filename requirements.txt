@@ -1,9 +1,29 @@
-torch
-torchvision
-transformers
-datasets
-streamlit
-sentencepiece
-scikit-learn
-faiss-cpu
-opacus
+# TrustVault AI — Requirements
+# Privacy-First Federated AI Assistant
+# Python 3.10+ | Google Colab compatible
+
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Transformers & NLP models
+transformers>=4.35.0
+accelerate>=0.24.0
+sentencepiece>=0.1.99
+datasets>=2.14.0
+
+# Differential Privacy
+opacus>=1.4.0
+
+# Vector search & embeddings (RAG)
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+
+# Streamlit UI
+streamlit>=1.28.0
+
+# Ngrok tunneling
+pyngrok>=7.0.0
+
+# Utilities
+numpy>=1.24.0
